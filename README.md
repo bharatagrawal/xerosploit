@@ -6,7 +6,7 @@
 
 Xerosploit
 =
-Xerosploit is a penetration testing toolkit whose goal is to perform man in the middle attacks for testing purposes. It brings various modules that allow to realise efficient attacks, and also allows to carry out denial of service attacks and port scanning.
+Xerosploit is a penetration testing toolkit whose goal is to perform a man in the middle attacks for testing purposes. It brings various modules that allow realizing efficient attacks and also allows to carry out denial of service attacks and port scanning.
 Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https://www.bettercap.org"> nmap</a>.
 
 ![](http://i.imgur.com/bbr48Ep.png)
@@ -26,7 +26,7 @@ Dependencies
 
 
 
-Instalation
+Installation
 =
 Dependencies will be automatically installed.
 
@@ -66,9 +66,9 @@ features
 - Dos attack
 - Html code injection
 - Javascript code injection
-- Download intercaption and replacement
+- Download interception and replacement
 - Sniffing
-- Dns spoofing
+- DNS spoofing
 - Background audio reproduction
 - Images replacement
 - Drifnet
